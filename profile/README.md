@@ -1,6 +1,6 @@
 
 
-## Automate Animation README
+## Automate Animation.
 # Overview
 
 Welcome to the Automate Animation organization! 
